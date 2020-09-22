@@ -1,0 +1,24 @@
+Package Control Messages
+========================
+
+Conda
+-----
+
+  Conda v0.8.0
+  ============
+  
+  -  Use Anaconda's repo list so that all Python versions are available when creating a new environment
+  -  Add Conda: Open REPL command that opens the current Conda environment in a new REPL tab
+
+
+Conda
+-----
+
+  Conda v0.9.0
+  ============
+  
+  -  Added setting to save file prior to opening REPL
+  -  Added setting to open REPL in bottom row of layout
+  -  REPL syntax now defaults to Plain text but can be changed to Python
+  
+  Thanks to @gseastream for the contributions
